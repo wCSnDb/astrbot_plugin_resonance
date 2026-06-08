@@ -2,5 +2,5 @@ name: astrbot_plugin_resonance
 display_name: 起爆器
 desc: 给 Bot 塞个小玩具，用起爆器遥控它！
 author: 木有知、Zhalslar、wCSnDb
-version:0.1
+version:1.1
 repo: https://github.com/wCSnDb/astrbot_plugin_resonance

@@ -1,6 +1,6 @@
 name: astrbot_plugin_immersive_control
-display_name: 我真的要起爆你了
-desc: 给 Bot 塞个小玩具，遥控它！3分钟沉浸式互动，看 AI 害羞结巴
+display_name: 遥控跳蛋
+desc: 给 Bot 塞个跳蛋，遥控它！3分钟沉浸式互动，看 AI 失控喘息
 author: 木有知、Zhalslar
-version: 2.3.1
+version: 2.4.0
 repo: https://github.com/muyouzhi6/astrbot_plugin_immersive_control

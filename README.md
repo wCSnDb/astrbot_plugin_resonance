@@ -65,4 +65,4 @@
 
 感谢原作者提供的基础实现。
 
-**当前仓库**: [GitHub](https://github.com/muyouzhi6/astrbot_plugin_remote_egg)
+**当前仓库**: 上传后由维护者更新链接（原作者及原仓库信息见上）

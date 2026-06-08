@@ -65,4 +65,4 @@
 
 感谢原作者提供的基础实现。
 
-**当前仓库**: 上传后由维护者更新链接
+**当前仓库**: https://github.com/wCSnDb/astrbot_plugin_resonance (本版本基于 GPLv3 协议开源)

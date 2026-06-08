@@ -50,4 +50,19 @@
 
 ---
 
-**作者**: 木有知、Zhalslar | **仓库**: [GitHub](https://github.com/muyouzhi6/astrbot_plugin_remote_egg)
+## 致谢
+
+原插件由 **木有知**、**Zhalslar** 开发：
+
+- 原仓库: https://github.com/muyouzhi6/astrbot_plugin_immersive_control
+
+本版本基于原插件进行大幅简化与重构：
+- 移除大量冗余设置项（权限、粉丝限制、并发、item_name 等）
+- 优化代码结构
+- 使用更直白的英文插件 ID（`astrbot_plugin_remote_egg`）
+- 集成用户自定义的显式提示词模板
+- 保留核心沉浸式控制功能与可配置模板
+
+感谢原作者提供的基础实现。
+
+**当前仓库**: [GitHub](https://github.com/muyouzhi6/astrbot_plugin_remote_egg)

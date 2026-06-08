@@ -50,4 +50,4 @@
 
 ---
 
-**作者**: 木有知、Zhalslar | **仓库**: [GitHub](https://github.com/muyouzhi6/astrbot_plugin_immersive_control)
+**作者**: 木有知、Zhalslar | **仓库**: [GitHub](https://github.com/muyouzhi6/astrbot_plugin_tiaodan)

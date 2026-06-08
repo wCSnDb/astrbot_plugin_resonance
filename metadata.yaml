@@ -1,6 +1,6 @@
-name: astrbot_plugin_vibe_egg
+name: astrbot_plugin_resonance
 display_name: 遥控共振
 desc: 给 Bot 塞个共振器，遥控它！3分钟沉浸式互动，看 AI 失控喘息
 author: 木有知、Zhalslar
 version: 2.4.0
-repo: https://github.com/你的用户名/astrbot_plugin_vibe_egg （上传后请替换为实际仓库地址）
+repo: https://github.com/你的用户名/astrbot_plugin_resonance （上传后请替换为实际仓库地址）

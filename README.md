@@ -52,11 +52,11 @@
 
 ## 致谢
 
-原插件由 **木有知**、**Zhalslar** 开发：
+原作者：**木有知**、**Zhalslar**
 
-- 原仓库: https://github.com/muyouzhi6/astrbot_plugin_immersive_control
+原仓库：https://github.com/muyouzhi6/astrbot_plugin_immersive_control （如地址有误请告知更新）
 
-本版本基于原插件进行大幅简化与重构：
+本版本由另一位维护者（非原作者）基于原插件进行大幅简化与重构：
 - 移除大量冗余设置项（权限、粉丝限制、并发、item_name 等）
 - 优化代码结构
 - 使用更直白的英文插件 ID（`astrbot_plugin_remote_egg`）
@@ -65,4 +65,4 @@
 
 感谢原作者提供的基础实现。
 
-**当前仓库**: 上传后由维护者更新链接（原作者及原仓库信息见上）
+**当前仓库**: 上传后由维护者更新链接
